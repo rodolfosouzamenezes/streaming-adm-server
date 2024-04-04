@@ -32,7 +32,9 @@
 				"ms-azuretools.vscode-docker",
 				"dbaeumer.vscode-eslint",
 				"esbenp.prettier-vscode",
-				"humao.rest-client"
+				"humao.rest-client",
+				"Orta.vscode-jest",
+				"firsttris.vscode-jest-runner"
 			]
 		}
 	}
